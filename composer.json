@@ -28,8 +28,8 @@
     "ext-bcmath": "*",
     "ext-hash": "*",
 
-    "blobfolio\/blob-domain": "*",
-    "blobfolio\/blob-mimes": "*"
+    "londry\/blob-domain": "*",
+    "londry\/blob-mimes": "*"
   },
   "suggest": {
     "blobfolio\/blob-phone": "*"
